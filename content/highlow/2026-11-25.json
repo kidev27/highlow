@@ -1,0 +1,132 @@
+{
+  "rounds": [
+    {
+      "theme": "Planets and moons",
+      "question": "Which is wider?",
+      "unit": "km",
+      "source": "Mean diameter, NASA planetary fact sheets",
+      "pairs": [
+        [
+          {
+            "name": "Earth",
+            "emoji": "🌍",
+            "value": 12742
+          },
+          {
+            "name": "Venus",
+            "emoji": "🌕",
+            "value": 12104
+          }
+        ],
+        [
+          {
+            "name": "Neptune",
+            "emoji": "🔵",
+            "value": 49244
+          },
+          {
+            "name": "Uranus",
+            "emoji": "🧊",
+            "value": 50724
+          }
+        ],
+        [
+          {
+            "name": "Jupiter",
+            "emoji": "🪐",
+            "value": 139820
+          },
+          {
+            "name": "Saturn",
+            "emoji": "💫",
+            "value": 116460
+          }
+        ],
+        [
+          {
+            "name": "Mercury",
+            "emoji": "☿️",
+            "value": 4879
+          },
+          {
+            "name": "Mars",
+            "emoji": "🔴",
+            "value": 6779
+          }
+        ],
+        [
+          {
+            "name": "Ganymede (moon of Jupiter)",
+            "emoji": "🌑",
+            "value": 5268
+          },
+          {
+            "name": "Mercury",
+            "emoji": "☿️",
+            "value": 4879
+          }
+        ],
+        [
+          {
+            "name": "Callisto (moon of Jupiter)",
+            "emoji": "🌑",
+            "value": 4821
+          },
+          {
+            "name": "Titan (moon of Saturn)",
+            "emoji": "🟠",
+            "value": 5150
+          }
+        ],
+        [
+          {
+            "name": "The Moon",
+            "emoji": "🌙",
+            "value": 3475
+          },
+          {
+            "name": "Pluto",
+            "emoji": "🤍",
+            "value": 2377
+          }
+        ],
+        [
+          {
+            "name": "Europa (moon of Jupiter)",
+            "emoji": "🧊",
+            "value": 3122
+          },
+          {
+            "name": "Io (moon of Jupiter)",
+            "emoji": "🌋",
+            "value": 3643
+          }
+        ],
+        [
+          {
+            "name": "Triton (moon of Neptune)",
+            "emoji": "❄️",
+            "value": 2707
+          },
+          {
+            "name": "Pluto",
+            "emoji": "🤍",
+            "value": 2377
+          }
+        ],
+        [
+          {
+            "name": "The Moon",
+            "emoji": "🌙",
+            "value": 3475
+          },
+          {
+            "name": "Io (moon of Jupiter)",
+            "emoji": "🌋",
+            "value": 3643
+          }
+        ]
+      ]
+    }
+  ]
+}

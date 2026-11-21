@@ -1,0 +1,132 @@
+{
+  "rounds": [
+    {
+      "theme": "History and tech dates",
+      "question": "Which happened later?",
+      "unit": "year",
+      "source": "Widely documented dates",
+      "pairs": [
+        [
+          {
+            "name": "First iPhone goes on sale",
+            "emoji": "📱",
+            "value": 2007
+          },
+          {
+            "name": "YouTube is founded",
+            "emoji": "▶️",
+            "value": 2005
+          }
+        ],
+        [
+          {
+            "name": "Apollo 11 lands on the Moon",
+            "emoji": "🚀",
+            "value": 1969
+          },
+          {
+            "name": "The Beatles break up",
+            "emoji": "🎸",
+            "value": 1970
+          }
+        ],
+        [
+          {
+            "name": "Titanic sinks",
+            "emoji": "🚢",
+            "value": 1912
+          },
+          {
+            "name": "Wright brothers' first flight",
+            "emoji": "✈️",
+            "value": 1903
+          }
+        ],
+        [
+          {
+            "name": "Chernobyl disaster",
+            "emoji": "☢️",
+            "value": 1986
+          },
+          {
+            "name": "Fall of the Berlin Wall",
+            "emoji": "🧱",
+            "value": 1989
+          }
+        ],
+        [
+          {
+            "name": "Star Wars is released",
+            "emoji": "⭐",
+            "value": 1977
+          },
+          {
+            "name": "Apple is founded",
+            "emoji": "🍎",
+            "value": 1976
+          }
+        ],
+        [
+          {
+            "name": "Amazon is founded",
+            "emoji": "📦",
+            "value": 1994
+          },
+          {
+            "name": "Google is founded",
+            "emoji": "🔍",
+            "value": 1998
+          }
+        ],
+        [
+          {
+            "name": "French Revolution begins",
+            "emoji": "🇫🇷",
+            "value": 1789
+          },
+          {
+            "name": "US Declaration of Independence",
+            "emoji": "📜",
+            "value": 1776
+          }
+        ],
+        [
+          {
+            "name": "Pokémon Red and Green (Japan)",
+            "emoji": "🎮",
+            "value": 1996
+          },
+          {
+            "name": "First Harry Potter book",
+            "emoji": "⚡",
+            "value": 1997
+          }
+        ],
+        [
+          {
+            "name": "Facebook launches",
+            "emoji": "👍",
+            "value": 2004
+          },
+          {
+            "name": "Wikipedia launches",
+            "emoji": "📚",
+            "value": 2001
+          }
+        ],
+        [
+          {
+            "name": "Xbox launches",
+            "emoji": "🟩",
+            "value": 2001
+          },
+          {
+            "name": "Euro notes and coins arrive",
+            "emoji": "💶",
+            "value": 2002
+          }
+        ]
+      ]
+    }
+  ]
+}
