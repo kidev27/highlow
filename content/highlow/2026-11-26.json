@@ -1,0 +1,132 @@
+{
+  "rounds": [
+    {
+      "theme": "Country sizes",
+      "question": "Which is bigger?",
+      "unit": "km²",
+      "source": "Total area, CIA World Factbook",
+      "pairs": [
+        [
+          {
+            "name": "Canada",
+            "emoji": "🇨🇦",
+            "value": 9984670
+          },
+          {
+            "name": "Russia",
+            "emoji": "🇷🇺",
+            "value": 17098246
+          }
+        ],
+        [
+          {
+            "name": "United States",
+            "emoji": "🇺🇸",
+            "value": 9833520
+          },
+          {
+            "name": "China",
+            "emoji": "🇨🇳",
+            "value": 9596961
+          }
+        ],
+        [
+          {
+            "name": "Australia",
+            "emoji": "🇦🇺",
+            "value": 7692024
+          },
+          {
+            "name": "Brazil",
+            "emoji": "🇧🇷",
+            "value": 8515767
+          }
+        ],
+        [
+          {
+            "name": "India",
+            "emoji": "🇮🇳",
+            "value": 3287263
+          },
+          {
+            "name": "Argentina",
+            "emoji": "🇦🇷",
+            "value": 2780400
+          }
+        ],
+        [
+          {
+            "name": "Algeria",
+            "emoji": "🇩🇿",
+            "value": 2381741
+          },
+          {
+            "name": "Kazakhstan",
+            "emoji": "🇰🇿",
+            "value": 2724900
+          }
+        ],
+        [
+          {
+            "name": "DR Congo",
+            "emoji": "🇨🇩",
+            "value": 2344858
+          },
+          {
+            "name": "Greenland",
+            "emoji": "🇬🇱",
+            "value": 2166086
+          }
+        ],
+        [
+          {
+            "name": "Indonesia",
+            "emoji": "🇮🇩",
+            "value": 1904569
+          },
+          {
+            "name": "Mexico",
+            "emoji": "🇲🇽",
+            "value": 1964375
+          }
+        ],
+        [
+          {
+            "name": "Japan",
+            "emoji": "🇯🇵",
+            "value": 377975
+          },
+          {
+            "name": "Germany",
+            "emoji": "🇩🇪",
+            "value": 357022
+          }
+        ],
+        [
+          {
+            "name": "Ghana",
+            "emoji": "🇬🇭",
+            "value": 238535
+          },
+          {
+            "name": "United Kingdom",
+            "emoji": "🇬🇧",
+            "value": 243610
+          }
+        ],
+        [
+          {
+            "name": "Egypt",
+            "emoji": "🇪🇬",
+            "value": 1002450
+          },
+          {
+            "name": "Nigeria",
+            "emoji": "🇳🇬",
+            "value": 923768
+          }
+        ]
+      ]
+    }
+  ]
+}

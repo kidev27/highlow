@@ -1,0 +1,132 @@
+{
+  "rounds": [
+    {
+      "theme": "Mountains",
+      "question": "Which is higher?",
+      "unit": "m",
+      "source": "Summit elevation above sea level from national surveys",
+      "pairs": [
+        [
+          {
+            "name": "Kilimanjaro",
+            "emoji": "🌍",
+            "value": 5895
+          },
+          {
+            "name": "Mount Elbrus",
+            "emoji": "🏔️",
+            "value": 5642
+          }
+        ],
+        [
+          {
+            "name": "Denali",
+            "emoji": "🇺🇸",
+            "value": 6190
+          },
+          {
+            "name": "Aconcagua",
+            "emoji": "🇦🇷",
+            "value": 6961
+          }
+        ],
+        [
+          {
+            "name": "Mont Blanc",
+            "emoji": "🇫🇷",
+            "value": 4806
+          },
+          {
+            "name": "Matterhorn",
+            "emoji": "🇨🇭",
+            "value": 4478
+          }
+        ],
+        [
+          {
+            "name": "Mount Olympus",
+            "emoji": "🏛️",
+            "value": 2918
+          },
+          {
+            "name": "Mount Fuji",
+            "emoji": "🗻",
+            "value": 3776
+          }
+        ],
+        [
+          {
+            "name": "K2",
+            "emoji": "⛰️",
+            "value": 8611
+          },
+          {
+            "name": "Annapurna I",
+            "emoji": "🇳🇵",
+            "value": 8091
+          }
+        ],
+        [
+          {
+            "name": "Mauna Kea",
+            "emoji": "🌺",
+            "value": 4207
+          },
+          {
+            "name": "Mount Rainier",
+            "emoji": "🌲",
+            "value": 4392
+          }
+        ],
+        [
+          {
+            "name": "Aoraki / Mount Cook",
+            "emoji": "🇳🇿",
+            "value": 3724
+          },
+          {
+            "name": "Mount Etna",
+            "emoji": "🌋",
+            "value": 3357
+          }
+        ],
+        [
+          {
+            "name": "Ben Nevis",
+            "emoji": "🏴",
+            "value": 1345
+          },
+          {
+            "name": "Mount Kosciuszko",
+            "emoji": "🇦🇺",
+            "value": 2228
+          }
+        ],
+        [
+          {
+            "name": "Mount Kenya",
+            "emoji": "🇰🇪",
+            "value": 5199
+          },
+          {
+            "name": "Mount Whitney",
+            "emoji": "🏜️",
+            "value": 4421
+          }
+        ],
+        [
+          {
+            "name": "Mount Elbert",
+            "emoji": "🇺🇸",
+            "value": 4401
+          },
+          {
+            "name": "Mount Ararat",
+            "emoji": "🇹🇷",
+            "value": 5137
+          }
+        ]
+      ]
+    }
+  ]
+}

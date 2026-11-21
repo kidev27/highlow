@@ -1,0 +1,132 @@
+{
+  "rounds": [
+    {
+      "theme": "Movie release years",
+      "question": "Which came out later?",
+      "unit": "year",
+      "source": "Original theatrical release year",
+      "pairs": [
+        [
+          {
+            "name": "Titanic",
+            "emoji": "🚢",
+            "value": 1997
+          },
+          {
+            "name": "Jurassic Park",
+            "emoji": "🦖",
+            "value": 1993
+          }
+        ],
+        [
+          {
+            "name": "Toy Story",
+            "emoji": "🤠",
+            "value": 1995
+          },
+          {
+            "name": "The Matrix",
+            "emoji": "💊",
+            "value": 1999
+          }
+        ],
+        [
+          {
+            "name": "Star Wars",
+            "emoji": "⭐",
+            "value": 1977
+          },
+          {
+            "name": "Jaws",
+            "emoji": "🦈",
+            "value": 1975
+          }
+        ],
+        [
+          {
+            "name": "E.T. the Extra-Terrestrial",
+            "emoji": "👽",
+            "value": 1982
+          },
+          {
+            "name": "Back to the Future",
+            "emoji": "⏰",
+            "value": 1985
+          }
+        ],
+        [
+          {
+            "name": "The Lion King",
+            "emoji": "🦁",
+            "value": 1994
+          },
+          {
+            "name": "Aladdin",
+            "emoji": "🧞",
+            "value": 1992
+          }
+        ],
+        [
+          {
+            "name": "Shrek",
+            "emoji": "👹",
+            "value": 2001
+          },
+          {
+            "name": "Finding Nemo",
+            "emoji": "🐠",
+            "value": 2003
+          }
+        ],
+        [
+          {
+            "name": "Inception",
+            "emoji": "🌀",
+            "value": 2010
+          },
+          {
+            "name": "Avatar",
+            "emoji": "🌳",
+            "value": 2009
+          }
+        ],
+        [
+          {
+            "name": "Up",
+            "emoji": "🎈",
+            "value": 2009
+          },
+          {
+            "name": "Frozen",
+            "emoji": "❄️",
+            "value": 2013
+          }
+        ],
+        [
+          {
+            "name": "Gladiator",
+            "emoji": "⚔️",
+            "value": 2000
+          },
+          {
+            "name": "Fight Club",
+            "emoji": "🥊",
+            "value": 1999
+          }
+        ],
+        [
+          {
+            "name": "Ghostbusters",
+            "emoji": "👻",
+            "value": 1984
+          },
+          {
+            "name": "Home Alone",
+            "emoji": "🏠",
+            "value": 1990
+          }
+        ]
+      ]
+    }
+  ]
+}

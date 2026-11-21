@@ -1,0 +1,132 @@
+{
+  "rounds": [
+    {
+      "theme": "Famous structures",
+      "question": "Which is taller?",
+      "unit": "m",
+      "source": "Height to tip: Council on Tall Buildings and Urban Habitat and official figures",
+      "pairs": [
+        [
+          {
+            "name": "Burj Khalifa",
+            "emoji": "🏙️",
+            "value": 828
+          },
+          {
+            "name": "Merdeka 118",
+            "emoji": "🏢",
+            "value": 678.9
+          }
+        ],
+        [
+          {
+            "name": "Abraj Al-Bait Clock Tower",
+            "emoji": "🕰️",
+            "value": 601
+          },
+          {
+            "name": "Shanghai Tower",
+            "emoji": "🌆",
+            "value": 632
+          }
+        ],
+        [
+          {
+            "name": "Lotte World Tower",
+            "emoji": "🏙️",
+            "value": 554.5
+          },
+          {
+            "name": "One World Trade Center",
+            "emoji": "🗽",
+            "value": 541.3
+          }
+        ],
+        [
+          {
+            "name": "Taipei 101",
+            "emoji": "🎋",
+            "value": 508
+          },
+          {
+            "name": "CN Tower",
+            "emoji": "📡",
+            "value": 553.3
+          }
+        ],
+        [
+          {
+            "name": "Petronas Towers",
+            "emoji": "🏢",
+            "value": 451.9
+          },
+          {
+            "name": "Willis Tower",
+            "emoji": "🌬️",
+            "value": 442.1
+          }
+        ],
+        [
+          {
+            "name": "Chrysler Building",
+            "emoji": "🦅",
+            "value": 319
+          },
+          {
+            "name": "Eiffel Tower",
+            "emoji": "🗼",
+            "value": 330
+          }
+        ],
+        [
+          {
+            "name": "Burj Al Arab",
+            "emoji": "⛵",
+            "value": 321
+          },
+          {
+            "name": "The Shard",
+            "emoji": "🔺",
+            "value": 309.6
+          }
+        ],
+        [
+          {
+            "name": "London Eye",
+            "emoji": "🎡",
+            "value": 135
+          },
+          {
+            "name": "Space Needle",
+            "emoji": "🛸",
+            "value": 184
+          }
+        ],
+        [
+          {
+            "name": "Statue of Liberty (with pedestal)",
+            "emoji": "🗽",
+            "value": 93
+          },
+          {
+            "name": "Elizabeth Tower (Big Ben)",
+            "emoji": "🕰️",
+            "value": 96
+          }
+        ],
+        [
+          {
+            "name": "Leaning Tower of Pisa",
+            "emoji": "🇮🇹",
+            "value": 56.7
+          },
+          {
+            "name": "Christ the Redeemer (with pedestal)",
+            "emoji": "🙏",
+            "value": 38
+          }
+        ]
+      ]
+    }
+  ]
+}
