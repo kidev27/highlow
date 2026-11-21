@@ -1,0 +1,22 @@
+{
+  "rounds": [
+    {
+      "theme": "World populations",
+      "question": "Which has more people?",
+      "unit": "million",
+      "source": "UN World Population Prospects 2024 (2024 estimates)",
+      "pairs": [
+        [{ "name": "Nigeria", "emoji": "🇳🇬", "note": "Country", "value": 232.7 }, { "name": "Brazil", "emoji": "🇧🇷", "note": "Country", "value": 211.9 }],
+        [{ "name": "Japan", "emoji": "🇯🇵", "note": "Country", "value": 123.8 }, { "name": "Mexico", "emoji": "🇲🇽", "note": "Country", "value": 130.9 }],
+        [{ "name": "Turkey", "emoji": "🇹🇷", "note": "Country", "value": 87.5 }, { "name": "Germany", "emoji": "🇩🇪", "note": "Country", "value": 84.6 }],
+        [{ "name": "France", "emoji": "🇫🇷", "note": "Country", "value": 66.5 }, { "name": "United Kingdom", "emoji": "🇬🇧", "note": "Country", "value": 69.1 }],
+        [{ "name": "South Africa", "emoji": "🇿🇦", "note": "Country", "value": 64.0 }, { "name": "Italy", "emoji": "🇮🇹", "note": "Country", "value": 59.3 }],
+        [{ "name": "Argentina", "emoji": "🇦🇷", "note": "Country", "value": 45.7 }, { "name": "Spain", "emoji": "🇪🇸", "note": "Country", "value": 47.9 }],
+        [{ "name": "Canada", "emoji": "🇨🇦", "note": "Country", "value": 39.7 }, { "name": "Poland", "emoji": "🇵🇱", "note": "Country", "value": 38.5 }],
+        [{ "name": "Russia", "emoji": "🇷🇺", "note": "Country", "value": 145.0 }, { "name": "Bangladesh", "emoji": "🇧🇩", "note": "Country", "value": 173.6 }],
+        [{ "name": "Vietnam", "emoji": "🇻🇳", "note": "Country", "value": 100.9 }, { "name": "Iran", "emoji": "🇮🇷", "note": "Country", "value": 91.6 }],
+        [{ "name": "Australia", "emoji": "🇦🇺", "note": "Country", "value": 26.7 }, { "name": "Ghana", "emoji": "🇬🇭", "note": "Country", "value": 34.4 }]
+      ]
+    }
+  ]
+}
