@@ -1,0 +1,132 @@
+{
+  "rounds": [
+    {
+      "theme": "Mountains",
+      "question": "Which is higher?",
+      "unit": "m",
+      "source": "Wikidata elevation (P2044)",
+      "pairs": [
+        [
+          {
+            "name": "Mount Hermon",
+            "emoji": "🏔️",
+            "value": 2814
+          },
+          {
+            "name": "Mayon Volcano",
+            "emoji": "🏔️",
+            "value": 2462
+          }
+        ],
+        [
+          {
+            "name": "Manaslu",
+            "emoji": "🏔️",
+            "value": 8163
+          },
+          {
+            "name": "Chimborazo",
+            "emoji": "🏔️",
+            "value": 6263
+          }
+        ],
+        [
+          {
+            "name": "Mount Rainier",
+            "emoji": "🏔️",
+            "value": 4389
+          },
+          {
+            "name": "Shishapangma",
+            "emoji": "🏔️",
+            "value": 8027
+          }
+        ],
+        [
+          {
+            "name": "Mount Tai",
+            "emoji": "🏔️",
+            "value": 1545
+          },
+          {
+            "name": "Table Mountain",
+            "emoji": "🏔️",
+            "value": 1085
+          }
+        ],
+        [
+          {
+            "name": "Mount Ararat",
+            "emoji": "🏔️",
+            "value": 5137
+          },
+          {
+            "name": "Mount Athos",
+            "emoji": "🏔️",
+            "value": 2033
+          }
+        ],
+        [
+          {
+            "name": "Mount Aragats",
+            "emoji": "🏔️",
+            "value": 4090
+          },
+          {
+            "name": "Mount Logan",
+            "emoji": "🏔️",
+            "value": 5959
+          }
+        ],
+        [
+          {
+            "name": "Kanchenjunga",
+            "emoji": "🏔️",
+            "value": 8586
+          },
+          {
+            "name": "Mount Bazardüzü",
+            "emoji": "🏔️",
+            "value": 4466
+          }
+        ],
+        [
+          {
+            "name": "Ojos del Salado",
+            "emoji": "🏔️",
+            "value": 6893
+          },
+          {
+            "name": "Mont Blanc",
+            "emoji": "🏔️",
+            "value": 4810
+          }
+        ],
+        [
+          {
+            "name": "Zugspitze",
+            "emoji": "🏔️",
+            "value": 2962
+          },
+          {
+            "name": "Tambora",
+            "emoji": "🏔️",
+            "value": 2850
+          }
+        ],
+        [
+          {
+            "name": "Mount Everest",
+            "emoji": "🏔️",
+            "value": 8850
+          },
+          {
+            "name": "Mount Elbrus",
+            "emoji": "🏔️",
+            "value": 5642
+          }
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "rounds": [
+    {
+      "theme": "Islands",
+      "question": "Which is bigger?",
+      "unit": "km²",
+      "source": "Wikidata area (P2046)",
+      "pairs": [
+        [
+          {
+            "name": "Saba",
+            "emoji": "🏝️",
+            "value": 13
+          },
+          {
+            "name": "Navassa Island",
+            "emoji": "🏝️",
+            "value": 5
+          }
+        ],
+        [
+          {
+            "name": "Montserrat",
+            "emoji": "🏝️",
+            "value": 102
+          },
+          {
+            "name": "Saint Martin",
+            "emoji": "🏝️",
+            "value": 87
+          }
+        ],
+        [
+          {
+            "name": "Ascension Island",
+            "emoji": "🏝️",
+            "value": 88
+          },
+          {
+            "name": "Elba",
+            "emoji": "🏝️",
+            "value": 223
+          }
+        ],
+        [
+          {
+            "name": "Lesbos",
+            "emoji": "🏝️",
+            "value": 1641
+          },
+          {
+            "name": "Rhodes",
+            "emoji": "🏝️",
+            "value": 1400
+          }
+        ],
+        [
+          {
+            "name": "Okinawa",
+            "emoji": "🏝️",
+            "value": 1208
+          },
+          {
+            "name": "Ibiza",
+            "emoji": "🏝️",
+            "value": 577
+          }
+        ],
+        [
+          {
+            "name": "Kyushu",
+            "emoji": "🏝️",
+            "value": 36782
+          },
+          {
+            "name": "Shikoku",
+            "emoji": "🏝️",
+            "value": 18297
+          }
+        ],
+        [
+          {
+            "name": "Guam",
+            "emoji": "🏝️",
+            "value": 544
+          },
+          {
+            "name": "Jan Mayen",
+            "emoji": "🏝️",
+            "value": 377
+          }
+        ],
+        [
+          {
+            "name": "Gran Canaria",
+            "emoji": "🏝️",
+            "value": 1560
+          },
+          {
+            "name": "Tahiti",
+            "emoji": "🏝️",
+            "value": 1042
+          }
+        ],
+        [
+          {
+            "name": "Bali Island",
+            "emoji": "🏝️",
+            "value": 5633
+          },
+          {
+            "name": "Mallorca",
+            "emoji": "🏝️",
+            "value": 3620
+          }
+        ],
+        [
+          {
+            "name": "Isle of Wight",
+            "emoji": "🏝️",
+            "value": 380
+          },
+          {
+            "name": "Easter Island",
+            "emoji": "🏝️",
+            "value": 164
+          }
+        ]
+      ]
+    }
+  ]
+}

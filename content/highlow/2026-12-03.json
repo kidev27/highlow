@@ -1,0 +1,132 @@
+{
+  "rounds": [
+    {
+      "theme": "Islands",
+      "question": "Which is bigger?",
+      "unit": "km²",
+      "source": "Wikidata area (P2046)",
+      "pairs": [
+        [
+          {
+            "name": "Okinawa",
+            "emoji": "🏝️",
+            "value": 1208
+          },
+          {
+            "name": "Mallorca",
+            "emoji": "🏝️",
+            "value": 3620
+          }
+        ],
+        [
+          {
+            "name": "Bouvet Island",
+            "emoji": "🏝️",
+            "value": 49
+          },
+          {
+            "name": "Sint Eustatius",
+            "emoji": "🏝️",
+            "value": 21
+          }
+        ],
+        [
+          {
+            "name": "Sulawesi",
+            "emoji": "🏝️",
+            "value": 174600
+          },
+          {
+            "name": "North Island",
+            "emoji": "🏝️",
+            "value": 113729
+          }
+        ],
+        [
+          {
+            "name": "Ibiza",
+            "emoji": "🏝️",
+            "value": 577
+          },
+          {
+            "name": "Corfu",
+            "emoji": "🏝️",
+            "value": 626
+          }
+        ],
+        [
+          {
+            "name": "Mindanao",
+            "emoji": "🏝️",
+            "value": 97530
+          },
+          {
+            "name": "Taiwan Island",
+            "emoji": "🏝️",
+            "value": 35883
+          }
+        ],
+        [
+          {
+            "name": "Luzon",
+            "emoji": "🏝️",
+            "value": 109965
+          },
+          {
+            "name": "South Island",
+            "emoji": "🏝️",
+            "value": 150437
+          }
+        ],
+        [
+          {
+            "name": "Easter Island",
+            "emoji": "🏝️",
+            "value": 164
+          },
+          {
+            "name": "Jan Mayen",
+            "emoji": "🏝️",
+            "value": 377
+          }
+        ],
+        [
+          {
+            "name": "Bornholm",
+            "emoji": "🏝️",
+            "value": 588
+          },
+          {
+            "name": "Rhodes",
+            "emoji": "🏝️",
+            "value": 1400
+          }
+        ],
+        [
+          {
+            "name": "Borneo",
+            "emoji": "🏝️",
+            "value": 748168
+          },
+          {
+            "name": "Baffin Island",
+            "emoji": "🏝️",
+            "value": 507451
+          }
+        ],
+        [
+          {
+            "name": "Great Britain",
+            "emoji": "🏝️",
+            "value": 228938
+          },
+          {
+            "name": "Newfoundland",
+            "emoji": "🏝️",
+            "value": 108860
+          }
+        ]
+      ]
+    }
+  ]
+}

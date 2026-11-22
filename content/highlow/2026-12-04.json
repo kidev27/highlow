@@ -1,0 +1,132 @@
+{
+  "rounds": [
+    {
+      "theme": "Lakes",
+      "question": "Which is bigger?",
+      "unit": "km²",
+      "source": "Wikidata area (P2046)",
+      "pairs": [
+        [
+          {
+            "name": "Lake Winnipeg",
+            "emoji": "💧",
+            "value": 24400
+          },
+          {
+            "name": "Lake Victoria",
+            "emoji": "💧",
+            "value": 68100
+          }
+        ],
+        [
+          {
+            "name": "Lake Balaton",
+            "emoji": "💧",
+            "value": 592
+          },
+          {
+            "name": "Lake Prespa",
+            "emoji": "💧",
+            "value": 273
+          }
+        ],
+        [
+          {
+            "name": "Vänern",
+            "emoji": "💧",
+            "value": 5650
+          },
+          {
+            "name": "Lake Edward",
+            "emoji": "💧",
+            "value": 2150
+          }
+        ],
+        [
+          {
+            "name": "Kati Thanda–Lake Eyre",
+            "emoji": "💧",
+            "value": 9300
+          },
+          {
+            "name": "Khanka",
+            "emoji": "💧",
+            "value": 4190
+          }
+        ],
+        [
+          {
+            "name": "Lake Ontario",
+            "emoji": "💧",
+            "value": 18529
+          },
+          {
+            "name": "Lake Onega",
+            "emoji": "💧",
+            "value": 9800
+          }
+        ],
+        [
+          {
+            "name": "Vättern",
+            "emoji": "💧",
+            "value": 1893
+          },
+          {
+            "name": "Lake Peipus",
+            "emoji": "💧",
+            "value": 3543
+          }
+        ],
+        [
+          {
+            "name": "Lake Huron",
+            "emoji": "💧",
+            "value": 59600
+          },
+          {
+            "name": "Lake Tanganyika",
+            "emoji": "💧",
+            "value": 32900
+          }
+        ],
+        [
+          {
+            "name": "Lake Inari",
+            "emoji": "💧",
+            "value": 1082
+          },
+          {
+            "name": "Lake Garda",
+            "emoji": "💧",
+            "value": 370
+          }
+        ],
+        [
+          {
+            "name": "Mälaren",
+            "emoji": "💧",
+            "value": 1072
+          },
+          {
+            "name": "Tonle Sap",
+            "emoji": "💧",
+            "value": 2700
+          }
+        ],
+        [
+          {
+            "name": "Lake Kivu",
+            "emoji": "💧",
+            "value": 2700
+          },
+          {
+            "name": "Lake Albert",
+            "emoji": "💧",
+            "value": 5270
+          }
+        ]
+      ]
+    }
+  ]
+}

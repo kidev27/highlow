@@ -1,0 +1,132 @@
+{
+  "rounds": [
+    {
+      "theme": "Famous structures",
+      "question": "Which is taller?",
+      "unit": "m",
+      "source": "Wikidata height (P2048)",
+      "pairs": [
+        [
+          {
+            "name": "Chrysler Building",
+            "emoji": "🗼",
+            "value": 319
+          },
+          {
+            "name": "Edifício Itália",
+            "emoji": "🗼",
+            "value": 165
+          }
+        ],
+        [
+          {
+            "name": "30 St Mary Axe",
+            "emoji": "🗼",
+            "value": 180
+          },
+          {
+            "name": "Tokyo Tower",
+            "emoji": "🗼",
+            "value": 333
+          }
+        ],
+        [
+          {
+            "name": "Shanghai World Financial Center",
+            "emoji": "🗼",
+            "value": 494
+          },
+          {
+            "name": "Space Needle",
+            "emoji": "🗼",
+            "value": 184
+          }
+        ],
+        [
+          {
+            "name": "Abeno Harukas",
+            "emoji": "🗼",
+            "value": 300
+          },
+          {
+            "name": "Jin Mao Tower",
+            "emoji": "🗼",
+            "value": 421
+          }
+        ],
+        [
+          {
+            "name": "Burj Khalifa",
+            "emoji": "🗼",
+            "value": 830
+          },
+          {
+            "name": "Ostankino Tower",
+            "emoji": "🗼",
+            "value": 540
+          }
+        ],
+        [
+          {
+            "name": "Eiffel Tower",
+            "emoji": "🗼",
+            "value": 330
+          },
+          {
+            "name": "Mode Gakuen Cocoon Tower",
+            "emoji": "🗼",
+            "value": 204
+          }
+        ],
+        [
+          {
+            "name": "Oriental Pearl Tower",
+            "emoji": "🗼",
+            "value": 468
+          },
+          {
+            "name": "Ryugyong Hotel",
+            "emoji": "🗼",
+            "value": 335
+          }
+        ],
+        [
+          {
+            "name": "Commerzbank Tower",
+            "emoji": "🗼",
+            "value": 300
+          },
+          {
+            "name": "Palace of Culture and Science",
+            "emoji": "🗼",
+            "value": 230
+          }
+        ],
+        [
+          {
+            "name": "Abraj Al Bait",
+            "emoji": "🗼",
+            "value": 607
+          },
+          {
+            "name": "Tokyo Skytree",
+            "emoji": "🗼",
+            "value": 634
+          }
+        ],
+        [
+          {
+            "name": "Empire State Building",
+            "emoji": "🗼",
+            "value": 457
+          },
+          {
+            "name": "Woolworth Building",
+            "emoji": "🗼",
+            "value": 241
+          }
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "rounds": [
+    {
+      "theme": "Famous structures",
+      "question": "Which is taller?",
+      "unit": "m",
+      "source": "Wikidata height (P2048)",
+      "pairs": [
+        [
+          {
+            "name": "Mode Gakuen Cocoon Tower",
+            "emoji": "🗼",
+            "value": 204
+          },
+          {
+            "name": "Ryugyong Hotel",
+            "emoji": "🗼",
+            "value": 335
+          }
+        ],
+        [
+          {
+            "name": "Shanghai World Financial Center",
+            "emoji": "🗼",
+            "value": 494
+          },
+          {
+            "name": "30 St Mary Axe",
+            "emoji": "🗼",
+            "value": 180
+          }
+        ],
+        [
+          {
+            "name": "Kingdom Centre",
+            "emoji": "🗼",
+            "value": 302
+          },
+          {
+            "name": "Chrysler Building",
+            "emoji": "🗼",
+            "value": 319
+          }
+        ],
+        [
+          {
+            "name": "Canton Tower",
+            "emoji": "🗼",
+            "value": 600
+          },
+          {
+            "name": "Eiffel Tower",
+            "emoji": "🗼",
+            "value": 330
+          }
+        ],
+        [
+          {
+            "name": "Jin Mao Tower",
+            "emoji": "🗼",
+            "value": 421
+          },
+          {
+            "name": "Woolworth Building",
+            "emoji": "🗼",
+            "value": 241
+          }
+        ],
+        [
+          {
+            "name": "Abeno Harukas",
+            "emoji": "🗼",
+            "value": 300
+          },
+          {
+            "name": "Oriental Pearl Tower",
+            "emoji": "🗼",
+            "value": 468
+          }
+        ],
+        [
+          {
+            "name": "CITIC Plaza",
+            "emoji": "🗼",
+            "value": 390
+          },
+          {
+            "name": "Milad Tower",
+            "emoji": "🗼",
+            "value": 435
+          }
+        ],
+        [
+          {
+            "name": "7 World Trade Center",
+            "emoji": "🗼",
+            "value": 225
+          },
+          {
+            "name": "International Commerce Centre",
+            "emoji": "🗼",
+            "value": 484
+          }
+        ],
+        [
+          {
+            "name": "Empire State Building",
+            "emoji": "🗼",
+            "value": 457
+          },
+          {
+            "name": "Kuala Lumpur Tower",
+            "emoji": "🗼",
+            "value": 421
+          }
+        ],
+        [
+          {
+            "name": "Lakhta Centre",
+            "emoji": "🗼",
+            "value": 462
+          },
+          {
+            "name": "Mirante do Vale",
+            "emoji": "🗼",
+            "value": 170
+          }
+        ]
+      ]
+    }
+  ]
+}

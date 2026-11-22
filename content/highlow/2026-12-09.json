@@ -1,0 +1,132 @@
+{
+  "rounds": [
+    {
+      "theme": "Country sizes",
+      "question": "Which is bigger?",
+      "unit": "km²",
+      "source": "Wikidata area (P2046)",
+      "pairs": [
+        [
+          {
+            "name": "Japan",
+            "emoji": "🇯🇵",
+            "value": 377974
+          },
+          {
+            "name": "Ukraine",
+            "emoji": "🇺🇦",
+            "value": 603550
+          }
+        ],
+        [
+          {
+            "name": "United Kingdom",
+            "emoji": "🇬🇧",
+            "value": 242495
+          },
+          {
+            "name": "Hungary",
+            "emoji": "🇭🇺",
+            "value": 93036
+          }
+        ],
+        [
+          {
+            "name": "Germany",
+            "emoji": "🇩🇪",
+            "value": 357588
+          },
+          {
+            "name": "Sweden",
+            "emoji": "🇸🇪",
+            "value": 528861
+          }
+        ],
+        [
+          {
+            "name": "France",
+            "emoji": "🇫🇷",
+            "value": 643801
+          },
+          {
+            "name": "Poland",
+            "emoji": "🇵🇱",
+            "value": 312683
+          }
+        ],
+        [
+          {
+            "name": "Turkey",
+            "emoji": "🇹🇷",
+            "value": 783562
+          },
+          {
+            "name": "Spain",
+            "emoji": "🇪🇸",
+            "value": 505990
+          }
+        ],
+        [
+          {
+            "name": "Egypt",
+            "emoji": "🇪🇬",
+            "value": 1010408
+          },
+          {
+            "name": "Pakistan",
+            "emoji": "🇵🇰",
+            "value": 881913
+          }
+        ],
+        [
+          {
+            "name": "Belarus",
+            "emoji": "🇧🇾",
+            "value": 207600
+          },
+          {
+            "name": "Iceland",
+            "emoji": "🇮🇸",
+            "value": 103004
+          }
+        ],
+        [
+          {
+            "name": "Indonesia",
+            "emoji": "🇮🇩",
+            "value": 1916907
+          },
+          {
+            "name": "Chile",
+            "emoji": "🇨🇱",
+            "value": 756102
+          }
+        ],
+        [
+          {
+            "name": "Switzerland",
+            "emoji": "🇨🇭",
+            "value": 41291
+          },
+          {
+            "name": "Israel",
+            "emoji": "🇮🇱",
+            "value": 20770
+          }
+        ],
+        [
+          {
+            "name": "Greece",
+            "emoji": "🇬🇷",
+            "value": 131957
+          },
+          {
+            "name": "Serbia",
+            "emoji": "🇷🇸",
+            "value": 88499
+          }
+        ]
+      ]
+    }
+  ]
+}
