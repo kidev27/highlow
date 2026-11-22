@@ -1,0 +1,132 @@
+{
+  "rounds": [
+    {
+      "theme": "Rivers",
+      "question": "Which is longer?",
+      "unit": "km",
+      "source": "Wikidata length (P2043)",
+      "pairs": [
+        [
+          {
+            "name": "Ural",
+            "emoji": "🌊",
+            "value": 2428
+          },
+          {
+            "name": "Indus River",
+            "emoji": "🌊",
+            "value": 3180
+          }
+        ],
+        [
+          {
+            "name": "Amazon River",
+            "emoji": "🌊",
+            "value": 6992
+          },
+          {
+            "name": "Niger River",
+            "emoji": "🌊",
+            "value": 4180
+          }
+        ],
+        [
+          {
+            "name": "Dnieper",
+            "emoji": "🌊",
+            "value": 2285
+          },
+          {
+            "name": "Ob",
+            "emoji": "🌊",
+            "value": 3650
+          }
+        ],
+        [
+          {
+            "name": "Irtysh",
+            "emoji": "🌊",
+            "value": 4248
+          },
+          {
+            "name": "Amu Darya",
+            "emoji": "🌊",
+            "value": 2620
+          }
+        ],
+        [
+          {
+            "name": "Dniester",
+            "emoji": "🌊",
+            "value": 1352
+          },
+          {
+            "name": "Don",
+            "emoji": "🌊",
+            "value": 1870
+          }
+        ],
+        [
+          {
+            "name": "Oder",
+            "emoji": "🌊",
+            "value": 854
+          },
+          {
+            "name": "Po",
+            "emoji": "🌊",
+            "value": 652
+          }
+        ],
+        [
+          {
+            "name": "Yenisei",
+            "emoji": "🌊",
+            "value": 3487
+          },
+          {
+            "name": "Yellow River",
+            "emoji": "🌊",
+            "value": 5464
+          }
+        ],
+        [
+          {
+            "name": "Elbe",
+            "emoji": "🌊",
+            "value": 1094
+          },
+          {
+            "name": "Blue Nile",
+            "emoji": "🌊",
+            "value": 1783
+          }
+        ],
+        [
+          {
+            "name": "Colorado River",
+            "emoji": "🌊",
+            "value": 2334
+          },
+          {
+            "name": "Yamuna",
+            "emoji": "🌊",
+            "value": 1376
+          }
+        ],
+        [
+          {
+            "name": "Ganges",
+            "emoji": "🌊",
+            "value": 2525
+          },
+          {
+            "name": "Vistula",
+            "emoji": "🌊",
+            "value": 1047
+          }
+        ]
+      ]
+    }
+  ]
+}

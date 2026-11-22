@@ -1,0 +1,132 @@
+{
+  "rounds": [
+    {
+      "theme": "Rivers",
+      "question": "Which is longer?",
+      "unit": "km",
+      "source": "Wikidata length (P2043)",
+      "pairs": [
+        [
+          {
+            "name": "Tigris",
+            "emoji": "🌊",
+            "value": 1850
+          },
+          {
+            "name": "Rhône",
+            "emoji": "🌊",
+            "value": 812
+          }
+        ],
+        [
+          {
+            "name": "Colorado River",
+            "emoji": "🌊",
+            "value": 2334
+          },
+          {
+            "name": "Irtysh",
+            "emoji": "🌊",
+            "value": 4248
+          }
+        ],
+        [
+          {
+            "name": "Mekong River",
+            "emoji": "🌊",
+            "value": 4350
+          },
+          {
+            "name": "Niger River",
+            "emoji": "🌊",
+            "value": 4180
+          }
+        ],
+        [
+          {
+            "name": "Syr Darya",
+            "emoji": "🌊",
+            "value": 2212
+          },
+          {
+            "name": "Yenisei",
+            "emoji": "🌊",
+            "value": 3487
+          }
+        ],
+        [
+          {
+            "name": "Yangtze River",
+            "emoji": "🌊",
+            "value": 6300
+          },
+          {
+            "name": "Volga",
+            "emoji": "🌊",
+            "value": 3530
+          }
+        ],
+        [
+          {
+            "name": "Tiber",
+            "emoji": "🌊",
+            "value": 405
+          },
+          {
+            "name": "Loire",
+            "emoji": "🌊",
+            "value": 1006
+          }
+        ],
+        [
+          {
+            "name": "Yellow River",
+            "emoji": "🌊",
+            "value": 5464
+          },
+          {
+            "name": "Ganges",
+            "emoji": "🌊",
+            "value": 2525
+          }
+        ],
+        [
+          {
+            "name": "Mississippi River",
+            "emoji": "🌊",
+            "value": 3766
+          },
+          {
+            "name": "Rio Grande",
+            "emoji": "🌊",
+            "value": 3051
+          }
+        ],
+        [
+          {
+            "name": "Missouri River",
+            "emoji": "🌊",
+            "value": 3726
+          },
+          {
+            "name": "Danube",
+            "emoji": "🌊",
+            "value": 2850
+          }
+        ],
+        [
+          {
+            "name": "Dniester",
+            "emoji": "🌊",
+            "value": 1352
+          },
+          {
+            "name": "Rhine",
+            "emoji": "🌊",
+            "value": 1233
+          }
+        ]
+      ]
+    }
+  ]
+}

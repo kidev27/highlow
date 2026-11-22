@@ -64,6 +64,21 @@ One file per day: `content/highlow/YYYY-MM-DD.json`.
 - Always fill in `source`; it is shown on the results screen.
 - Content is checked when the server starts and by `npm test`; a bad file stops both.
 
+### Generating days from Wikidata
+
+`scripts/make-days.ts` writes new days from Wikidata pools of well-known things: populations and
+country sizes (with flags), mountains, tall structures, rivers, islands and lakes. Themes rotate
+day by day. Each day takes 10 pairs from the 50 best-known items in its pool (by number of
+Wikipedia articles), with values 3% to 3x apart so pairs are neither ties nor giveaways. The same
+day always gives the same pairs.
+
+```bash
+NODE_USE_ENV_PROXY=1 node scripts/make-days.ts 2026-12-12 14   # 14 days from 12 Dec
+```
+
+`NODE_USE_ENV_PROXY=1` is only needed behind an HTTP proxy. Read the generated files before
+merging: Wikidata values can be out of date, and the `source` line says where they came from.
+
 ## Deploying next to Blinker on one VM
 
 The same VM can run both games: Blinker on port 8787 and this one on 8788, with Caddy in front.

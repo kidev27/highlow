@@ -1,0 +1,132 @@
+{
+  "rounds": [
+    {
+      "theme": "Lakes",
+      "question": "Which is bigger?",
+      "unit": "km²",
+      "source": "Wikidata area (P2046)",
+      "pairs": [
+        [
+          {
+            "name": "Lake Mweru",
+            "emoji": "💧",
+            "value": 4650
+          },
+          {
+            "name": "Khanka",
+            "emoji": "💧",
+            "value": 4190
+          }
+        ],
+        [
+          {
+            "name": "Lake Garda",
+            "emoji": "💧",
+            "value": 370
+          },
+          {
+            "name": "Lake Trasimeno",
+            "emoji": "💧",
+            "value": 128
+          }
+        ],
+        [
+          {
+            "name": "Vänern",
+            "emoji": "💧",
+            "value": 5650
+          },
+          {
+            "name": "Lake Peipus",
+            "emoji": "💧",
+            "value": 3543
+          }
+        ],
+        [
+          {
+            "name": "Kati Thanda–Lake Eyre",
+            "emoji": "💧",
+            "value": 9300
+          },
+          {
+            "name": "Lake Ontario",
+            "emoji": "💧",
+            "value": 18529
+          }
+        ],
+        [
+          {
+            "name": "Poyang Lake",
+            "emoji": "💧",
+            "value": 5100
+          },
+          {
+            "name": "Issyk-Kul",
+            "emoji": "💧",
+            "value": 6236
+          }
+        ],
+        [
+          {
+            "name": "Lake Ohrid",
+            "emoji": "💧",
+            "value": 349
+          },
+          {
+            "name": "Lake Maggiore",
+            "emoji": "💧",
+            "value": 213
+          }
+        ],
+        [
+          {
+            "name": "Lake Albert",
+            "emoji": "💧",
+            "value": 5270
+          },
+          {
+            "name": "Lake Maracaibo",
+            "emoji": "💧",
+            "value": 13210
+          }
+        ],
+        [
+          {
+            "name": "Lake Tana",
+            "emoji": "💧",
+            "value": 3600
+          },
+          {
+            "name": "Lake Kivu",
+            "emoji": "💧",
+            "value": 2700
+          }
+        ],
+        [
+          {
+            "name": "Lake Baikal",
+            "emoji": "💧",
+            "value": 31722
+          },
+          {
+            "name": "Lake Tanganyika",
+            "emoji": "💧",
+            "value": 32900
+          }
+        ],
+        [
+          {
+            "name": "Titicaca",
+            "emoji": "💧",
+            "value": 8562
+          },
+          {
+            "name": "Lake Athabasca",
+            "emoji": "💧",
+            "value": 7850
+          }
+        ]
+      ]
+    }
+  ]
+}

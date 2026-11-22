@@ -1,0 +1,132 @@
+{
+  "rounds": [
+    {
+      "theme": "Country sizes",
+      "question": "Which is bigger?",
+      "unit": "km²",
+      "source": "Wikidata area (P2046)",
+      "pairs": [
+        [
+          {
+            "name": "France",
+            "emoji": "🇫🇷",
+            "value": 643801
+          },
+          {
+            "name": "Germany",
+            "emoji": "🇩🇪",
+            "value": 357588
+          }
+        ],
+        [
+          {
+            "name": "South Korea",
+            "emoji": "🇰🇷",
+            "value": 100295
+          },
+          {
+            "name": "Austria",
+            "emoji": "🇦🇹",
+            "value": 83879
+          }
+        ],
+        [
+          {
+            "name": "United Kingdom",
+            "emoji": "🇬🇧",
+            "value": 242495
+          },
+          {
+            "name": "Iceland",
+            "emoji": "🇮🇸",
+            "value": 103004
+          }
+        ],
+        [
+          {
+            "name": "Greece",
+            "emoji": "🇬🇷",
+            "value": 131957
+          },
+          {
+            "name": "Belarus",
+            "emoji": "🇧🇾",
+            "value": 207600
+          }
+        ],
+        [
+          {
+            "name": "Turkey",
+            "emoji": "🇹🇷",
+            "value": 783562
+          },
+          {
+            "name": "Vietnam",
+            "emoji": "🇻🇳",
+            "value": 331690
+          }
+        ],
+        [
+          {
+            "name": "South Africa",
+            "emoji": "🇿🇦",
+            "value": 1220813
+          },
+          {
+            "name": "Chile",
+            "emoji": "🇨🇱",
+            "value": 756102
+          }
+        ],
+        [
+          {
+            "name": "Sweden",
+            "emoji": "🇸🇪",
+            "value": 528861
+          },
+          {
+            "name": "Ukraine",
+            "emoji": "🇺🇦",
+            "value": 603550
+          }
+        ],
+        [
+          {
+            "name": "Italy",
+            "emoji": "🇮🇹",
+            "value": 302068
+          },
+          {
+            "name": "Thailand",
+            "emoji": "🇹🇭",
+            "value": 513120
+          }
+        ],
+        [
+          {
+            "name": "Japan",
+            "emoji": "🇯🇵",
+            "value": 377974
+          },
+          {
+            "name": "Afghanistan",
+            "emoji": "🇦🇫",
+            "value": 652230
+          }
+        ],
+        [
+          {
+            "name": "Bulgaria",
+            "emoji": "🇧🇬",
+            "value": 110994
+          },
+          {
+            "name": "Portugal",
+            "emoji": "🇵🇹",
+            "value": 92225
+          }
+        ]
+      ]
+    }
+  ]
+}
